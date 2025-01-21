@@ -1,4 +1,4 @@
 import hello;
 
-def test_hello():
-    assert hello.hello_world() == "Hello World!"
+def test_add_two_floats(self):
+    assert hello.add_two_numbers(1.0, 2.4) == 3.4
