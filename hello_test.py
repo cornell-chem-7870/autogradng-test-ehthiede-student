@@ -1,4 +1,4 @@
-import hello
+import hello;
 
 
 def test_add_two_floats(self):
